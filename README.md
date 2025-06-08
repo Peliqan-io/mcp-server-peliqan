@@ -48,4 +48,5 @@ Add this to your claude_desktop_config.json:
 ```
 
 Location on Windows: `$env:AppData\Claude\claude_desktop_config.json`
+
 Location on Mac: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
