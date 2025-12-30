@@ -1,6 +1,9 @@
-# Peliqan MCP Server
+# Peliqan Local MCP Server
 
-For more info, visit https://peliqan.io/mcp.
+This repo provides a local MCP Server, that you can install on your computer.
+It communicates with the Peliqan platform via a "Proxy" API endpoint.
+
+For more info, including setting up a *Remote MCP Server* on Peliqan, visit https://peliqan.io/mcp.
 
 ## Configuration
 
